@@ -22,11 +22,11 @@ copyright = "Copyright William D. Batchelor and Daniel Vasiles 2016--2017 &copyr
 \key a \minor
 \time 7/4
 
-<a e'>8 r <a e'> r1 r4. | <a e'>8 r <a e'> r1 r4. | 
-<a e'>8 r <a e'> r2 <g-4 d'>8 r <g d'> r2 <f c'>8 r <f c'> r2 <g d'>8 r <g d'> %{r4. <a-4 e'> <a e'> r4. <g-4 d'> <g d'> r4. <f-4 c'> <f c'> r4. <g-4 d'> <g d'>
-<a e'> <g d'> <f c'> <g d'> <a e'> <g d'> <b f'> <c g'>
-<a e'> <g d'> <g d'> <a e'> <a e'> <g d'>
-\time 12/8 a4. b c d
-\time 7/4 <e,-1 b'> <a'-2. d> <a-1 d> <a2. e'> \time 5/4 <a1 g'> <a e'> \time 11/4 <a e'>%}
+<a e'>8 r <a e'> r1 r4. | r1.. | <a e'>8 r <a e'> r1 r4. | r1.. |
+<a e'>8 r <a e'> r2 | <g d'>8 r <g d'> r2 | <f c'>8 r <f c'> r2 | <g d'>8 r <g d'> r2 | <a e'>8 r <a e'> r2 | <g d'>8 r <g d'> r2 | <f c'>8 r <f c'> r2 | <g d'>8 r <g d'> r2 |
+<a e'>2.. <g d'> | <f c'> <g d'> | <a e'> <g d'> | <b f'> <c g'> |
+<a e'> <g d'> | <g d'> <a e'> | <a e'> <g d'> |
+\time 12/8 a4. b c d |
+\time 7/4 <b e>2.. <d a'> | <d a'> <e b'> | \time 5/4 <e c'>2. (<e c'>2) <d a'>2. (<d a'>2) \time 11/4 <a e'>1 (<a e'>2.) \bar "|."
  
 }
