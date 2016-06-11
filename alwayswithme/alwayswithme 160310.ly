@@ -5,6 +5,7 @@
   subtitle = "Originally Performed by Youmi Kimura and the New Japan Philharmonic"
   composer = "Joe Hisaishi"
   arranger = "arr. by William D. Batchelor"
+  instrument = "Cello" 
 }
 
 \relative {
