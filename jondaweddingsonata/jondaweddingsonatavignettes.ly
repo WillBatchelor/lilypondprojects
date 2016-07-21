@@ -43,6 +43,7 @@ fis8 | e4. d8 r d r4 \bar "|."
      \clef "bass"
      \key a \major
      \tempo 4 = 80
+
 \bar "|."
 
    }
@@ -56,6 +57,7 @@ fis8 | e4. d8 r d r4 \bar "|."
      \clef "bass"
      \key a \major
      \tempo 4 = 129
+
 \bar "|."
 
    }
@@ -70,6 +72,7 @@ fis8 | e4. d8 r d r4 \bar "|."
      \key c \major
      \time 2/2
      \tempo 2 = 35
+
 \bar "|."
 
    }
@@ -83,6 +86,7 @@ fis8 | e4. d8 r d r4 \bar "|."
      \clef "bass"
      \key c \major
      \tempo 4 = 80
+
 \bar "|."
 
    }
@@ -96,6 +100,7 @@ fis8 | e4. d8 r d r4 \bar "|."
      \clef "bass"
      \key g \major
      \tempo 4 = 80
+
 \bar "|."
 
    }
@@ -109,6 +114,7 @@ fis8 | e4. d8 r d r4 \bar "|."
      \clef "bass"
      \key d \major
      \tempo 4 = 108
+
 \bar "|."
 
    }
