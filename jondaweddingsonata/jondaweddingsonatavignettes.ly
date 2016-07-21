@@ -32,7 +32,87 @@ d'8
 d d e~ | e fis2..~ | fis4 r e8 e4 a8~ | a g4 fis e d8~ | d r4. d8 e4 fis8~ | fis1 | r2 e8 e4 
 fis8 | e4. d8 r d r4 \bar "|."
 
-    }
    }
+  }
+ } 
+  
+ \score {
+  \header { piece = "Somewhere Only We Know" }
+   \relative c{
+    \new Staff{
+     \clef "bass"
+     \key a \major
+     \tempo 4 = 80
+\bar "|."
+
+   }
+  }
+ }    
+
+ \score {
+  \header { piece = "Here Comes the Sun" }
+   \relative c{
+    \new Staff{
+     \clef "bass"
+     \key a \major
+     \tempo 4 = 129
+\bar "|."
+
+   }
+  }
+ } 
+
+ \score {
+  \header { piece = "Hoppipolla" }
+   \relative c{
+    \new Staff{
+     \clef "bass"
+     \key c \major
+     \time 2/2
+     \tempo 2 = 35
+\bar "|."
+
+   }
+  }
  }
+
+ \score {
+  \header { piece = "Salted Wound" }
+   \relative c{
+    \new Staff{
+     \clef "bass"
+     \key c \major
+     \tempo 4 = 80
+\bar "|."
+
+   }
+  }
+ }
+ 
+ \score {
+  \header { piece = "Naked As We Came" }
+   \relative c{
+    \new Staff{
+     \clef "bass"
+     \key g \major
+     \tempo 4 = 80
+\bar "|."
+
+   }
+  }
+ }
+
+ \score {
+  \header { piece = "You've Got The Love" }
+   \relative c{
+    \new Staff{
+     \clef "bass"
+     \key d \major
+     \tempo 4 = 108
+\bar "|."
+
+   }
+  }
+ }
+
 
