@@ -27,7 +27,7 @@ copyright = "Copyright William D. N. Batchelor 2016--2017 &copyright; "
    \key d \major
    \tempo 4 = 115
 fis'1~  | fis'~ | fis'~ | fis'2 g' | r4 a'2.~ | a'1~ | a'~ | a'\fermata | r | r2 r8 fis fis fis~
-fis4 e d8 e4 e8 | %{(fis2) r8 fis fis fis~ | fis4 e d8 d(e) |%} 
+fis4 e d8 e4 e8( fis2) r8 fis fis fis~ | fis4 e d8 d(e) d~ | d2
 
   }
  }
