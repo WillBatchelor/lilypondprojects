@@ -43,7 +43,7 @@ fis8 | e4. d8 r d r4 \bar "|."
      \clef "bass"
      \key bes \major
      \tempo 4 = 80
-bes8 f' d f d f d f | a, f' d f d f d f | ees f ees f ees f ees f | bes bes bes bes a2 | r8 bes,
+bes8 f' d f d f d f | a, f' d f d f d f | ees f ees f ees f ees f | bes bes \override TextSpanner.bound-details.left.text = "rit." bes\startTextSpan bes a2\stopTextSpan | r8 bes,^\markup {\italic "a tempo"}
 f'8. f16 d2 | r8 c16 d8. c16 d2~d16 | r8 ees ees ees16 ees8. ees8 ees ees | ees d c ees4. d4 |
 r4 bes8 bes'4 a8 a g | d c d f d4 c | r4. bes'4 a8 a g | d c d f d4 c | r4.
 bes'4 a8 a g | d c d f d4( c) | d'8 c f d4 c r8 | \time 3/4 d8 c d f c4 | \time 4/4 bes4 r2. |
@@ -61,7 +61,8 @@ d8 c d g c,4 bes~ | bes1
      \clef "bass"
      \key a \major
      \tempo 4 = 129
-
+e,8 e e e e e e e | gis gis gis gis gis gis gis gis | b b b b b b b b | d d d d d d d d | r4
+cis'8 b4 cis a8~ | a4 cis8( a) b8 cis4 r8 | r4 cis8 b4 cis a8~ | a4 r8 c b a4. |
 \bar "|."
 
    }
