@@ -43,7 +43,9 @@ fis8 | e4. d8 r d r4 \bar "|."
      \clef "bass"
      \key bes \major
      \tempo 4 = 80
-bes8 f' d f d f d f | a,
+bes8 f' d f d f d f | a, f' d f d f d f | ees f ees f ees f ees f | bes bes bes bes a2 | r8 bes,
+f'8. f16 d2 | r8 c16 d8. c16 d2~d16 | r8 ees ees ees16 ees8. ees8 ees ees | ees d c ees4. d4 |
+r4 bes8 bes'4 a8 a g | d c d f d4 c | r4. bes'4 a a g | d c d f d4 c |  
 \bar "|."
 
    }
