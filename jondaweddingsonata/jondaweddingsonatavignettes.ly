@@ -41,9 +41,9 @@ fis8 | e4. d8 r d r4 \bar "|."
    \relative c{
     \new Staff{
      \clef "bass"
-     \key a \major
+     \key bes \major
      \tempo 4 = 80
-
+bes8 f' d f d f d f | a,
 \bar "|."
 
    }
