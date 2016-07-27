@@ -62,7 +62,8 @@ d8 c d g c,4 bes~ | bes1
      \key a \major
      \tempo 4 = 129
 e,8 e e e e e e e | gis gis gis gis gis gis gis gis | b b b b b b b b | d d d d d d d d | r4
-cis'8 b4 cis a8~ | a4 cis8( a) b8 cis4 r8 | r4 cis8 b4 cis a8~ | a4 r8 c b a4. |
+cis'8 b4 cis a8~ | a4 cis8( a) b8 cis4 r8 | r4 cis8 b4 cis a8~ | a4 r8 c b \afterGrace a4. 
+{b16 [a16] } |
 \bar "|."
 
    }
