@@ -63,7 +63,11 @@ d8 c d g c,4 bes~ | bes1
      \tempo 4 = 129
 e,8 e e e e e e e | gis gis gis gis gis gis gis gis | b b b b b b b b | d d d d d d d d | r4
 cis'8 b4 cis a8~ | a4 cis8( a) b8 cis4 r8 | r4 cis8 b4 cis a8~ | a4 r8 c b \afterGrace a4. 
-{b16 [a16] } | r8 cis b4 a4. e8 | fis-> a b e,-> a b d,-> a' | b e,-> a b e,,4-> e-> |  
+{b16 [a16] } | r8 cis b4 a4. e8 | fis-> a b e,-> a b d,-> a' | b e,-> a b e,,4-> e-> | r cis''8
+a b cis4 r8 | r4 cis8 b4 a fis8~ | fis a4 cis8( b) a4 fis8~ | fis e4 r2 r8 | r4 cis'8 a b4 cis 
+| r8 cis4 b a fis8~ | fis4 cis'8 b4 a gis8~ | gis r2.. | r4 cis8 b4 cis4 a8~ | a4 cis8( a) b c4
+r8 | r4 fis8 e4 fis\glissando dis8~ |dis4 r8 c( b) a4 r8 | r4 cis8 b4 a e8 | fis-> a b e,-> a b
+d,-> a' | b e,-> a b e,4-> e,-> | a1~ | a4 r2.
 \bar "|."
 
    }
