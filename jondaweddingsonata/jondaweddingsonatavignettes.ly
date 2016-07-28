@@ -124,7 +124,10 @@ d,-> a' | b e,-> a b e,4-> e,-> | a1~ | a4 r2.
      \clef "bass"
      \key d \major
      \tempo 4 = 108
-
+r8 b' b a16 a8 a8. d,8 d | b'16 a a8 g g\glissando fis4 r | r8 b4 b8( a) d, e g | g g e2 r4 | r8
+b' b a16 a8 a8. d,8 d | e16 g a8 b8. b16 a g4. r16 | r8 b b a16 a( g8) e g e | g g e4 r8 
+\xNotesOn g g g \xNotesOff | r b b b a4.. e16 | g8 e16 g8 g g4. r4 | d'4 d8 b16 a8. g8 e g | a a
+g2\bendAfter #-2 | r8 b b
 \bar "|."
 
    }
