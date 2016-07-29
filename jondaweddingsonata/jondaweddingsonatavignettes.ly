@@ -128,7 +128,8 @@ r8 b' b a16 a8 a8. d,8 d | b'16 a a8 g g\glissando fis4 r | r8 b4 b8( a) d, e g 
 b' b a16 a8 a8. d,8 d | e16 g a8 b8. b16 a g4. r16 | r8 b b a16 a( g8) e g e | g g e4 r8 
 \xNotesOn g g g \xNotesOff | r b b b a4.. e16 | g8 e16 g8 g g4~ g16 r4 | d'4 d8 b16 a8. g8 e g | a a
 g2\bendAfter #-2 r4 | r8 b b \acciaccatura {a16 b} a4 a8 a e16 g | g8 e16 b'8. g8 g4 r | r8 b b a16 a( g8)
-e g e | g g e4 r2 | r8 b8 a g16 g4~ g16 r4 |
+e g e | g g e4 r2 | %{r8 b'8 a g16 g4~ g16\bendAfter #-2 r4 | r8 b8 a g16 g8\glissando e16 d'8~ | 
+d4 b8 g a2\glissando | b1 | r1%}
 \bar "|."
 
    }
