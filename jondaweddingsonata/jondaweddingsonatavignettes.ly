@@ -85,7 +85,9 @@ d,-> a' | b e,-> a b e,4-> e,-> | a1~ | a4 r2.
 
 \bar "|."
 e,8 g c d e, g c d | d, g c d d, g c d | c, g' c d c, g' c d | d, g c d d, g c d | e g c d | e, g
-c e | f, g c
+c e | f, g c e16. c32 f8 e c g | f g c e16. c32 f8 e c g | f g c d e, g c d | e, g c e16. c32 
+f8 
+e c g | f g c d c d4 c8~ | c2
    }
   }
  }
