@@ -84,7 +84,7 @@ d,-> a' | b e,-> a b e,4-> e,-> | a1~ | a4 r2.
      \tempo 2 = 35
 
 \bar "|."
-
+e,8 g c d e, g c d | d, g c d d, g c d | c, g' c d c, g' c d | d, g c d d, g c d |
    }
   }
  }
