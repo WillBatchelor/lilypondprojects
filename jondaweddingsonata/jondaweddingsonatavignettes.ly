@@ -100,7 +100,11 @@ e d16. c32 | c8 d4 c2~ c8
      \clef "bass"
      \key c \major
      \tempo 4 = 80
-b8 c b c e c b c 
+b'8 c b c e c b c | a c a c e c a c | b c b c e c b c | g, g' d g, f' d g, r | r2 b'8 c4 g'8~ |
+g4 c,8 b4 c bes8~ | bes2.. a8~ | a2 r | r b8 c-. c-. e~ | e4 c8 b4 c8 g bes8~ | bes4. c4-.(
+c-. c8-.)~ | c1 | r4. e \acciaccatura {d16 e d} c4 | b( c8) d2\glissando e8~ | e4. e4 
+\acciaccatura {d16 e d} c4.~ | c4 d8 b4. c8 c | r4. c8 b c4 g'8~ | g4. e2~e8~ | e2 r4 e,8 e~ | e
+d4 f e e8~ | e4 r8 c' b c4 g'8~| g4. e2~e8~ | e2 r4 e8 e~ | e8 d4 f e g8~ | g1 | r
 \bar "|."
 
    }
