@@ -100,7 +100,7 @@ e d16. c32 | c8 d4 c2~ c8
      \clef "bass"
      \key c \major
      \tempo 4 = 80
-
+b8 c b c e c b c 
 \bar "|."
 
    }
