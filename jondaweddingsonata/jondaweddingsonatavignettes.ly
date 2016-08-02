@@ -118,7 +118,11 @@ d4 f e e8~ | e4 r8 c' b c4 g'8~| g4. e2~e8~ | e2 r4 e8 e~ | e8 d4 f e g8~ | g1 |
      \clef "bass"
      \key g \major
      \tempo 4 = 80
-
+g'8 c b g' g,, c' b g' | d, c' b g' g,, c' b g' | a,,4 b e d |
+g8 c b g' g,, c' b g' | d, c' b g' g,, c' b g' | a,,4 b e d | r8 d'~d16 c8. b4 g | a b8 a8. g 
+e8 g | r d'~d16 c8. b4 g | a8 b4 g2~g8 | r8 d'~d16 c8. b4 g | a b8 a8. g 
+e8 g | r d'~d16 c8. b4 g | a b g a | a1 | e4 fis g a~ | a1 | e4 fis \acciaccatura a8 g4 g8( fis)~ |
+fis fis4. r2 | e4 fis g a~ | a1 | e4 fis a8( g) g g~ | g1 | r1
 \bar "|."
 
    }
