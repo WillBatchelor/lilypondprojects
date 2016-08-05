@@ -132,7 +132,7 @@ fis fis4. r2 | e4 fis g a~ | a1 | e4 fis a8( g) g g~ | g1 | r1
  \score {
   \header { piece = "You've Got The Love" }
    \relative c{
-    \new Staff
+    \new Staff{
      \clef "bass"
      \key d \major
      \tempo 4 = 108
@@ -143,6 +143,37 @@ g2\bendAfter #-2 r4 | r8 b b \acciaccatura {a16 b} a4 a8 a e16 g | g8 e16 b'8. g
 e g e | g g e4 r2 | r8 b'8 a g16 g4~ g16\bendAfter #-2 r4 | r8 b8 a g16 g4~ g16\glissando 
 e8 d'8~ | 
 d4 b8 g a2\glissando | b1 | r1
+\bar "|."
+
+   }
+  }
+ }
+
+\score {
+  \header { piece = "Turning Page" }
+   \relative c{
+    \new Staff{
+     \clef "bass"
+     \key d \major
+     \tempo 4 = 57
+
+\bar "|."
+
+   }
+  }
+ }
+
+
+
+\score {
+  \header { piece = "Fix You" }
+   \relative c{
+    \new Staff{
+     \clef "bass"
+     \key d \major
+     \tempo 4 = 68
+
+
 \bar "|."
 
    }
