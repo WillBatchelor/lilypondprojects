@@ -18,3 +18,7 @@ Salted Wounds - Sia
 Naked As We Came - Iron & Wine
 
 You've Got the Love - Florence + The Machine
+
+Turning Page - Sleeping At Last
+
+Fix You - Coldplay
