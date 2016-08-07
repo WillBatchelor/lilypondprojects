@@ -11,7 +11,7 @@ dedication = "For Nathan and Jonda Shaw"
   
 title = "A Home, A Union"
 
-subtitle = "A suite celebrating love, joy, and synergic harmony"
+subtitle = "A suite celebrating joy, devotion, and synergic love"
 
 composer = "Various Artists"
 
