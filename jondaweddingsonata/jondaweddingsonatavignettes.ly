@@ -156,11 +156,11 @@ d4 b8 g a2\glissando | b1 | r1
      \clef "bass"
      \key d \major
      \tempo 4 = 57
-d1 | d2 e4 fis | g1 | b2 cis\fermata | r8 d8. cis16 cis32( b16.) a8 b r16 fis8.~ | fis16 r  d8.
-cis16 cis32( b16.) a8 b d8.\glissando b16 | fis2. r4 | r1 | r4 r16 a d32( e16.) fis8 a16  fis8.
+d1 | d2 e4 fis | g1 | b2 cis\fermata | r8 d,8.^4 cis16 cis32( b16.) a8 b r16 fis8.~ | fis16 r  d'8.
+cis16 cis32( b16.) a8 b d8.\glissando b16 | fis'2.^3 r4 | r1 | r4 r16 a, d32( e16.) fis8 a16  fis8.
 e16 fis16~ | fis8 e16 d8. g16 fis2 r16 | r4 r16 a, d32( e16.) fis8 a16 fis r8 d8 | fis32 e d4
-d16 d32\glissando a16. a4 r | r r16 a d32( e16.) | fis8 a16 fis r8 d8 | fis16( e) d d8. g16
-fis8. r8 g16 fis e d~ | d4 r8 g,16 a d8 d16 b8 fis'8.~ | fis4~fis16\glissando e d d~d4 r | r2 d8
+d16^1 d32\glissando a16.^1 a4 r | r r16 a d32( e16.) | fis8 a16 fis r8 d8 | fis16( e) d d8. g16
+fis8. r8 g16 fis e d~ | d4 r8 g,16 a d8 d16 b8 fis'8.~ | fis4~fis16\glissando e^2 d d~d4 r | r2 d8
 cis b a16 fis~ | fis8 fis2..
 \bar "|."
 
