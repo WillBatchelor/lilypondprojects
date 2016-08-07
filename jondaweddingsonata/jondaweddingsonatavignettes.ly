@@ -177,7 +177,11 @@ cis b a16 fis~ | fis8 fis2..
      \clef "bass"
      \key d \major
      \tempo 4 = 68
-
+r2.. a16 a | fis'8 fis d a16 a d8 d cis4 | b r2 r8 a16 a | fis' fis8 fis16  d8. a16 d d8 d16
+cis4^2\glissando a r2 r8 a16^1 a | fis'8 fis d4 a16 d d d cis4 | b4 r4. a8 d e | fis4. a4^2 
+d,4.^2~
+| d2 r | r2 g4 fis | e8. d16 cis8. b16 a4 b8 d^2~ | d4 r g fis | e8. d16 cis8. b16 a4 b8 d^2~ |
+d4 r g fis | e2~e8. d16 fis8 d8^2~ | d2 r 
 
 \bar "|."
 
