@@ -79,7 +79,7 @@ fis fis4. r2 | e4 fis g a~ | a1 | e4 fis a8( g) g g~ | g2 r2 | e,4-.^"pizz." g-.
      \clef "bass"
      \key d \major
      \tempo 4 = 108
-
+b' 8  a16 a8 a8.  d,8 d | b' a16 a8 g g8.\glissando fis8 r4
 \bar "|."
     }
    }
