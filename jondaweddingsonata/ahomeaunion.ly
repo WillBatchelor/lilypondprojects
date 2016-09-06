@@ -63,7 +63,15 @@ e c g |}
 {\time 2/2 f, g c d c d4 c8~ |} 
 }
 c2 r8 g c f~ | f e4  d8\glissando c4 c8 c | d e4 c4. g8 g | c d( c) e4 
-e d16. c32 | c8 d4 c8~ c4 r | c8 d4 c8~c2
+e d16. c32 | c8 d4 c8~ c4 r | c8 d4 c8~c2 | r4 g8 g d' e d f8~ | f f e d d e4 d8~ | d r g, g c
+d( c) e~ | e e d c4 \acciaccatura c8 d4 c8~ | c f e r c d4 c8~ | c2 r4. g8 | c d c e4 e8 d c |
+c \acciaccatura c d4 c8 r g g g | c d c e r e d c | f4. e4 c8 c4 | r2 r8 g e' d~ | d2.~d8 c~ |
+c2 r | r r8 g e' d~ | d1\glissando | c2 r | r r8 g g e | g a4 c,2 d8 | d g g8. e16 g8 a4 g8~ |
+g4. c8 c4 c8 d8~ | d2 e~ | e2. r8 c16 c~ | c8 d c e4. r8 c16 c~ | c8 f4. r f8 | f e4 d c c8 | d
+e4 c r8 g g | c d4 e e8 c d | f4. e8 r g, g e | g a4 c,2 d8 | d g g8. e16 g8 a4 g8~ |
+g4. c8 c4 c8 d8~ | d1 \acciaccatura d8 e1 |
+\repeat volta 3 {c8 d4 e e8 d c | c d4 e f f8 | f e4 d c c8 | d e4 c r8 g g^"3x"}
+c d4 e e8 c d | f4. e d4 | c1 | r
 
 \bar "|."
     }
