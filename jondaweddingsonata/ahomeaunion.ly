@@ -86,6 +86,17 @@ c d4 e e8 c d | f4. e d4 | c1 | r
      \key d \major
      \tempo 4 = 68
 d4.. e16 fis4-- a-- | b2 a | d,4.. e16 fis4-- d-- | b2^"poco. rit." cis4. a16 a | fis'8 fis
+d a16 a d8 d cis4 | b r2 r8 a16 a | \tuplet 3/2 {fis'8 fis fis} d8. a16 \tuplet 3/2 {cis8 cis d}
+cis4-2\glissando | a r2 r8 a16 a | fis'8 fis d4 a16 d d d cis4 | b r4. a8 d e | fis4. a4-2 
+d,4.-2~ | d2 r | r g4 fis | e8.( d16) cis8.( b16) a4 b8 d-2~ | d4 r g fis e8.( d16) cis8.( b16) 
+a4 b8 d-2~ | d4 r g fis e2~e8. d16 fis8 d-2
+\repeat volta 2 {d2. a'4 | d,2. a'4 |d,2. a'4| d, cis2. |} d2 fis8. fis r8 | r4 r16 d8. g g16(
+fis4) | r d8. d16 d8. d8 e8.\glissando | cis cis16 cis4 cis8. cis16~cis4 | r2 fis8. fis r8 |
+r4. d8 b'8. b16( a8.) a16 | a8.( g16) fis8.( e16) d8.( e16) fis8 e~ | e2. r4 | r2 fis8. fis r8 |
+r4 r16 d8. g g16( fis4) | r8. d16 d8. d16 d8. d8 e8.\glissando | cis4 cis8. cis16 cis8. cis16~
+cis4 | r2 fis8. fis r8 | r4. d8 b'8. b16( a8.) a16 | a8.( g16) fis8.( e16) d8.( e16) fis8 e~ | 
+e2. r4 | r2 g4 fis | e8.( d16) cis8.( b16) a4 b8 d~| d4 r g fis | e8.( d16) cis8.( b16) a4 |
+b8 d~ | d4 r8. b16 d4 e16( d8.) | e2~e8. d16 cis8 d~ | d2 r
 \bar "|."
     }
    }
