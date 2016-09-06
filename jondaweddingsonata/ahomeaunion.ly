@@ -53,6 +53,17 @@ fis fis4. r2 | e4 fis g a~ | a1 | e4 fis a8( g) g g~ | g2 r2 | e,4-.^"pizz." g-.
      \key c \major
      \time 2/2
      \tempo 2 = 32
+e,8 g c d e, g c d | d, g c d d, g c d | c, g' c d c, g' c d | d, g c d d, g c d | 
+\repeat volta 2 {e g c d | e, g
+c e | f, g c e16. c32 f8 e c g | f g c e16. c32 f8 e c g | f g c d e, g c d | e, g c e16. c32 
+f8 
+e c g |}
+\alternative{
+{\time 2/4 f g c d} 
+{\time 2/2 f, g c d c d4 c8~ |} 
+}
+c2 r8 g c f~ | f e4  d8\glissando c4 c8 c | d e4 c4. g8 g | c d( c) e4 
+e d16. c32 | c8 d4 c8~ c4 r | c8 d4 c8~c2
 
 \bar "|."
     }
