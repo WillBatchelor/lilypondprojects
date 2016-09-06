@@ -85,7 +85,7 @@ c d4 e e8 c d | f4. e d4 | c1 | r
      \clef "bass"
      \key d \major
      \tempo 4 = 68
-
+d4.. e16 fis4-- a-- | b2 a | d,4.. e16 fis4-- d-- | b2^"poco. rit." cis4. a16 a | fis'8 fis
 \bar "|."
     }
    }
