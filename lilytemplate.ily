@@ -1,10 +1,10 @@
 \version "2.16.0"
 
 \header{
-  title = "Simple Gifts"
-  subtitle = "For David and Suzanne Thornley"
-  composer = "Joseph Brackett"
-  arranger = "arr. by William D. Batchelor"
+  title = "Title"
+  subtitle = "Subtitle"
+  composer = "Composer"
+  arranger = "arr. by arranger"
 }
 
 \relative {
